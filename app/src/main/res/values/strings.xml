@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">DiyaInfoApp</string>
+    <string name="app_name">Diya Infotech</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="tickets">Tickets</string>
+    <string name="alert">Alert</string>
+    <string name="no_internet_message"><![CDATA["    <string name=\"no_internet_message\">Please make sure you have internet connection</string> "]]></string>
+    <string name="ok">OK</string>
+    <string name="shareBody">"%1$s %2$s. Here's the link\n %3$s"</string>
+    <string name="share_subject">Diya Infotech</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="automatically_fill_information">automatically_fill_information</string>
+    <string name="sent_from_android">Sent from android</string>
+    <string name="free_space">Free space</string>
+
+
 </resources>

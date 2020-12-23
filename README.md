@@ -1,2 +1,0 @@
-# DiyaInfoApp
- DiyaInfoApp
